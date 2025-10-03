@@ -3,6 +3,10 @@
 *Research Pproject for the Neuromatch Academy's Computational Neuroscience Course.*
 
 This repository contains the complete Python pipeline for analyzing intracranial electrocorticography (ECoG) data to investigate how the human brain represents visual objects under varying levels of sensory noise. The project uses a combination of traditional signal analysis (High-Gamma Activity, ERPs) and machine learning (Multivariate Pattern Analysis - MVPA) to characterize the spatio-temporal dynamics of face and house perception.
+The original repo was created by my friend Mohammadreza: https://github.com/mohammadrezashahsavari/ECoG-Object-Recognition-Uncertainty
+
+
+Edit note1: Preliminary visualizations for individual channel has been added. (perliminary_fnh_visual.ipynb)
 
 ## 🎯 Project Goal
 
