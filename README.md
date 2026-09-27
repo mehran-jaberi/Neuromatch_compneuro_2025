@@ -4,6 +4,9 @@
 
 This repository contains the complete Python pipeline for analyzing intracranial electrocorticography (ECoG) data to investigate how the human brain represents visual objects under varying levels of sensory noise. The project uses a combination of traditional signal analysis (High-Gamma Activity, ERPs) and machine learning (Multivariate Pattern Analysis - MVPA) to characterize the spatio-temporal dynamics of face and house perception.
 
+Note: This repository was adapted and expanded from the work of my project peer Mohammadreza Shahsavari (https://github.com/mohammadrezashahsavari/ECoG-Object-Recognition-Uncertainty). Since we worked as a team, this repository represents the contributions of all team members, not just me.
+The latest commits (September2026) are the final phase of this repository that include statistical test to produce P-values for our hypotheses.
+
 ## 🎯 Project Goal
 
 The primary goal of this research is to map the evolution of categorical information in the brain and understand how these neural codes are systematically altered by sensory uncertainty. We analyze ECoG data from subjects performing a visual task where they identify images of faces and houses obscured by different levels of noise.
