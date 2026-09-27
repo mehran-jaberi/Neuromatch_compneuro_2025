@@ -1,0 +1,7 @@
+hypothesis,test,statistic,p_value,significant
+H1: accuracy > chance (lowest noise bin),one-sample t (OLS intercept),8.598502854193951,6.80292111628129e-05,True
+H2: accuracy decreases with noise,mixed-effects model (slope),-0.18431331953071112,2.686064034912281e-67,True
+H3: breaking point (fdr_bh),per-bin tests + corrected p-values,,,False
+H3: accuracy drop at cliff (adjacent bins),"paired t-test, FDR-corrected",4.756228603243937,0.012554147632813723,True
+H3: slope change at breakpoint,segmented regression (hinge term),0.2850581884530661,0.00026383927845178917,True
+H4: peak latency increases with noise,mixed-effects model (slope),-330.7857142857145,1.0,False
